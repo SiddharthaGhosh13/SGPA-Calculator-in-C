@@ -1,5 +1,5 @@
 # SGPA-Calculator-in-C
-<h3>Overview</h3>
+<h3><i>Overview 👇🏼</i></h3>
 <i># 🎓 SGPA Calculator in C
 
 This is a simple **SGPA (Semester Grade Point Average) Calculator** built in C.  
