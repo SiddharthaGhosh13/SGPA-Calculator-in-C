@@ -2,7 +2,7 @@
 <h3><i>Overview 👇🏼</i></h3>
 <i># 🎓 SGPA Calculator in C
 
-This is a simple **SGPA (Semester Grade Point Average) Calculator** built in C.  
+This is a Simple **SGPA (Semester Grade Point Average) Calculator** built in C.  
 It allows Students to Calculate their SGPA Based On Subject Credits and Grades.
 
 ## 🚀 Features
