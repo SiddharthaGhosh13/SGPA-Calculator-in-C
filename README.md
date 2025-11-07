@@ -1,23 +1,22 @@
 # SGPA-Calculator-in-C
-<h3><i>Overview 👇🏼</i></h3>
-<i># 🎓 SGPA Calculator in C
+<h3><i>Overview</i></h3>
+<i>SGPA Calculator in C
 
 This is a Simple **SGPA (Semester Grade Point Average) Calculator** built in C.  
 It allows Students to Calculate their SGPA Based On Subject Credits and Grades.
 
-## 🚀 Features
+## Features
 - User-friendly Command-line interface
 - Input number Of Subjects, Credits, and Grades
 - Calculates SGPA with Precision
 - Easy to Modify and Extend
 
-## 🛠️ How to Run
+## How to Run
 
 ### 1. Compile
 ```bash
-gcc SGPA_Calculator.c -o SGPA_Calculator
 
-### 2. Run
+## 2. Run
 ./SGPA_Calculator
 
 ### 3. Example
@@ -29,6 +28,7 @@ Subject3: 3 6
 Subject4: 1 10
 Subject5: 3 10
 
-### 4. Output
+#### 4. Output
 Your SGPA is:8.363636
-<br> <b>Author - Siddhartha Ghosh</b>
+
+# Author - Siddhartha Ghosh
