@@ -11,6 +11,12 @@ It allows Students to Calculate their SGPA Based On Subject Credits and Grades.
 - Calculates SGPA with Precision
 - Easy to Modify and Extend
 
+## Concepts Used
+- Variables
+- If-Else
+- Loops (While)
+- SGPA Calculation formula
+
 ## How to Run
 
 ### 1. Compile
