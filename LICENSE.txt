@@ -3,7 +3,7 @@ MIT License
 Copyright (C) 2025 Siddhartha Ghosh
 
 Permission is hereby Granted, free of Charge, to any Person Obtaining a Copy
-of this software and associated documentation files (the "Software"), to deal
+of this Software and Associated Documentation files (the "Software"), to Deal
 in the Software Without restriction, including Without limitation the rights
 to Use, Copy, Modify, Merge, Publish, Distribute, Sublicense, and/Or Sell
 Copies Of the Software, and to Permit Persons to Whom the Software is
