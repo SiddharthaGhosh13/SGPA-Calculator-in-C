@@ -43,4 +43,4 @@ Subject 8 marks: 97
 ### 4. Output 
 Your SGPA is: 8.500000 
 
-<b>Author - Siddhartha Ghosh</b>
+# Author - Siddhartha Ghosh
