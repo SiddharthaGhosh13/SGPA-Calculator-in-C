@@ -1,26 +1,15 @@
 #include<stdio.h>
 int main(){
-<<<<<<< HEAD
-    int Sub;
-    printf("Enter number of subjects: ");
-    scanf("%d",&Sub);
-    printf("Enter credit & grade points: \n");
-    int i=1;
-    float Credit,Grade,TotalPoints=0,TotalCredit=0;
-    while(i<=Sub){
-        printf("Subject %d: ",i);
-        scanf("%f %f",&Credit,&Grade);
-=======
     int Subject;
-    printf("Enter Number Of Subjects: ");
+    printf("Enter number of subjects: ");
     scanf("%d",&Subject);
-    printf("(Maximum Marks:100)\n");
+    printf("(Maximum marks:100)\n");
     int i=1;
     float Credit,Grade,TotalPoints=0,TotalCredit=0,Marks;
     while(i<=Subject){
-        printf("Subject%d Marks: ",i);
+        printf("Subject %d marks: ",i);
         scanf("%f",&Marks);
-        printf("(Subject%d Credit): ",i);
+        printf("(Subject %d Credit): ",i);
         scanf("%f",&Credit);
         if(Marks>=89.5)
             Grade=10;
@@ -44,12 +33,11 @@ int main(){
             Grade=1;
         else
             Grade=0;
->>>>>>> d59799cb720466defc58f9f13222b16c708e0e38
         TotalPoints=TotalPoints+(Credit*Grade);
         TotalCredit=(TotalCredit+Credit);
         i++;
     }
     float SGPA=(TotalPoints/TotalCredit);
-    printf("Your SGPA is:%f\n",SGPA);
+    printf("Your SGPA is: %f\n",SGPA);
     return 0;
 }
