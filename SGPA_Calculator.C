@@ -1,13 +1,13 @@
 #include<stdio.h>
 int main(){
     int Sub;
-    printf("Enter Number Of Subjects: ");
+    printf("Enter number of subjects: ");
     scanf("%d",&Sub);
-    printf("Enter Credit & Grade Points: \n");
+    printf("Enter credit & grade points: \n");
     int i=1;
     float Credit,Grade,TotalPoints=0,TotalCredit=0;
     while(i<=Sub){
-        printf("Subject%d: ",i);
+        printf("Subject %d: ",i);
         scanf("%f %f",&Credit,&Grade);
         TotalPoints=TotalPoints+(Credit*Grade);
         TotalCredit=(TotalCredit+Credit);
