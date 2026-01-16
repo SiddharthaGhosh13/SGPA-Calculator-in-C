@@ -7,9 +7,9 @@ int main(){
     int i=1;
     float Credit,Grade,TotalPoints=0,TotalCredit=0,Marks;
     while(i<=Subject){
-        printf("Subject %d marks: ",i);
+        printf("Subject%d marks: ",i);
         scanf("%f",&Marks);
-        printf("(Subject %d Credit): ",i);
+        printf("(Subject%d Credit): ",i);
         scanf("%f",&Credit);
         if(Marks>=89.5)
             Grade=10;
