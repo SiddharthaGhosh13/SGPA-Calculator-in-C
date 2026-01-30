@@ -1,2 +1,14 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+
+# VS Code
 .vscode/
-SGPA_Calculator.exe
+
+# Debug files
+*.log
+*.tmp
