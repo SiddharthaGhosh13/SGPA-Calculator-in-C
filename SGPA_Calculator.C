@@ -1,13 +1,13 @@
 #include<stdio.h>
 int main(){
     int Subject;
-    printf("Enter Number Of Subjects: ");
+    printf("Enter number of subjects: ");
     scanf("%d",&Subject);
-    printf("(Maximum Marks:100)\n");
+    printf("(Maximum marks:100)\n");
     int i=1;
     float Credit,Grade,TotalPoints=0,TotalCredit=0,Marks;
     while(i<=Subject){
-        printf("Subject%d Marks: ",i);
+        printf("Subject%d marks: ",i);
         scanf("%f",&Marks);
         printf("(Subject%d Credit): ",i);
         scanf("%f",&Credit);
@@ -38,6 +38,6 @@ int main(){
         i++;
     }
     float SGPA=(TotalPoints/TotalCredit);
-    printf("Your SGPA is:%f\n",SGPA);
+    printf("Your SGPA is: %f\n",SGPA);
     return 0;
 }
